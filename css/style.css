@@ -1,16 +1,43 @@
 .container {
-    margin: 20px;
-    color: green;
+	background-color: #ebe6e3;
+	display: inline-block;
+	position: relative;
 }
-.description1 {
-    color: green;
-    float: left;
+.name{
+	text-align: top;
+	margin-top: 0px;
+	margin-bottom: 10px;
 }
-
-.description2 {
-    font-weight: bold;
-    background-color: #ccff99;
-    font-size: 20px;
-    padding: 20px;
-    display: inline-block;
+.one {
+	display: inline-block;
+	float:left;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	position: relative;
+}
+.header {
+    color: white;
+    background-color: #47413a;
+    text-align: center;
+    margin-top: 0px;
+}
+.picture {
+	clear:left;
+}
+.description {
+	margin-right: 0px;
+	margin-top: 35px;
+	width: 400px;
+	height: 50px;
+	font-size: 18px;
+}
+.contact {
+	margin-left: 20px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	font-size: 22px;
+}
+.links {
+	margin-top: 10px;
 }
